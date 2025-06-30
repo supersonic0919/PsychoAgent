@@ -1,0 +1,8 @@
+pandas==2.2.3
+requests==2.32.3
+openai==1.58.1
+tqdm==4.67.1
+torch==2.6.0+cu124
+transformers==4.27.1
+numpy==1.23.5
+sklearn.metrics==1.5.2
