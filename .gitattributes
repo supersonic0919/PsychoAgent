@@ -1,1 +1,2 @@
 datafiles/COPE/panic_disaster_data.csv filter=lfs diff=lfs merge=lfs -text
+modelFiles/panic_model.pth filter=lfs diff=lfs merge=lfs -text
